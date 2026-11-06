@@ -30,3 +30,6 @@ al eliminar una dependencia con npm uninstall se modifican
 package.json y package-lock.json.
 
 Estos cambios se registran en Git mediante un commit.
+
+## Web desplegada
+https://yassineelmir10.github.io/myproject-deploy/
