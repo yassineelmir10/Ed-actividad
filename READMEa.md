@@ -10,14 +10,19 @@
 
 ### React Confetti
 
-![React Confetti](../../react-confitte.png)
+![React Confetti](./react-confitte.png)
+
+### Dependencias 
+
+![dependencias](./dependecia.png)
 
 ### Canvas Confetti
 
-![Canvas Confetti](../../nazconfetti.png)
+
+![Canvas Confetti](./nazconfetti.png)
 
 ### Escena 3D
-![Three.js](../../3d.png)
+![Three.js](./3d.png)
 
 
 ## Pregunta
